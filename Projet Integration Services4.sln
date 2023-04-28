@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Projet Integration Services4", "Projet Integration Services4\Projet Integration Services4.dtproj", "{CFA4FAFC-7B7C-4649-A2AD-0A7FA741E70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA4FAFC-7B7C-4649-A2AD-0A7FA741E70B}.Development|Default.ActiveCfg = Development
+		{CFA4FAFC-7B7C-4649-A2AD-0A7FA741E70B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
